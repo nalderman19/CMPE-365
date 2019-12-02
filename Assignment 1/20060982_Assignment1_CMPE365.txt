@@ -1,0 +1,12 @@
+CMPE 365 Assignment 1
+Nicholas Alderman - 20060982
+I certify that this submission contains my own work, except as noted.
+
+
+Optimal route from node 9 to node 82 is 
+
+Fly from 9 to 6 arriving at 3
+Fly from 6 to 183 arriving at 10
+Fly from 183 to 82 arriving at 17
+
+Arrival time at 82 at time 17

@@ -1,0 +1,8 @@
+Part 3
+
+Looking at the data from the Part 2 output, it is clear that with low 'n', the BFI
+ is more efficient using only 80 operations as opposed to 262. However, as 'n'
+  increases the BFI is much less efficent using 18785 operations as opposed to only 5907.  By simply looking at the hypothesized Big O notations, it is clear that they are true based on chart trends produced by Part 2.
+
+  For BFI, as n gets bigger, the number of operations becomes extremely large.
+  For HS, as n gets bigger, the number of operations becomes moderately larger

@@ -1,0 +1,8 @@
+Part 1 evidence that code executes correctly
+
+Code prints this to terminal:
+
+HS Algorithm: (set, ops)
+[[18, 4, 6], 80]
+BFI Algorithm: (set, ops)
+[[3, 3, 18, 4], 113]
